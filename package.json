@@ -1,6 +1,6 @@
 {
-  "name": "extension-template",
-  "version": "0.1.4",
+  "name": "looker-feed",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/bundle.js",
   "scripts": {
@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@looker/components": "0.7.18",
+    "@looker/embed-sdk": "^1.1.0",
     "@looker/extension-sdk": "^0.3.8",
     "@looker/extension-sdk-react": "^0.3.1",
     "@looker/sdk": "^0.2.0-beta.31",
